@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\semir\\Documents\\GitHub\\Exam-work-CRM_system\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6613F988-86B2-40E7-866C-61E2A80043C1}|CRMSystem\\CRMSystem.csproj|c:\\users\\semir\\documents\\github\\exam-work-crm_system\\backend\\crmsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6613F988-86B2-40E7-866C-61E2A80043C1}|CRMSystem\\CRMSystem.csproj|solutionrelative:crmsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6613F988-86B2-40E7-866C-61E2A80043C1}|CRMSystem\\CRMSystem.csproj|c:\\users\\semir\\documents\\github\\exam-work-crm_system\\backend\\crmsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6613F988-86B2-40E7-866C-61E2A80043C1}|CRMSystem\\CRMSystem.csproj|solutionrelative:crmsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6613F988-86B2-40E7-866C-61E2A80043C1}|CRMSystem\\CRMSystem.csproj|c:\\users\\semir\\documents\\github\\exam-work-crm_system\\backend\\crmsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6613F988-86B2-40E7-866C-61E2A80043C1}|CRMSystem\\CRMSystem.csproj|solutionrelative:crmsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6613F988-86B2-40E7-866C-61E2A80043C1}|CRMSystem\\CRMSystem.csproj|c:\\users\\semir\\documents\\github\\exam-work-crm_system\\backend\\crmsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6613F988-86B2-40E7-866C-61E2A80043C1}|CRMSystem\\CRMSystem.csproj|solutionrelative:crmsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6613F988-86B2-40E7-866C-61E2A80043C1}|CRMSystem\\CRMSystem.csproj|c:\\users\\semir\\documents\\github\\exam-work-crm_system\\backend\\crmsystem\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6613F988-86B2-40E7-866C-61E2A80043C1}|CRMSystem\\CRMSystem.csproj|solutionrelative:crmsystem\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\semir\\Documents\\GitHub\\Exam-work-CRM_system\\Backend\\CRMSystem\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "CRMSystem\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\semir\\Documents\\GitHub\\Exam-work-CRM_system\\Backend\\CRMSystem\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "CRMSystem\\Controllers\\ClientsController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAuwF0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T23:00:19.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\semir\\Documents\\GitHub\\Exam-work-CRM_system\\Backend\\CRMSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "CRMSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\semir\\Documents\\GitHub\\Exam-work-CRM_system\\Backend\\CRMSystem\\appsettings.json",
+              "RelativeToolTip": "CRMSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T22:36:08.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\semir\\Documents\\GitHub\\Exam-work-CRM_system\\Backend\\CRMSystem\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CRMSystem\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\semir\\Documents\\GitHub\\Exam-work-CRM_system\\Backend\\CRMSystem\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CRMSystem\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T22:35:51.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\semir\\Documents\\GitHub\\Exam-work-CRM_system\\Backend\\CRMSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CRMSystem\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\semir\\Documents\\GitHub\\Exam-work-CRM_system\\Backend\\CRMSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CRMSystem\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:14:23.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\semir\\Documents\\GitHub\\Exam-work-CRM_system\\Backend\\CRMSystem\\Program.cs",
+              "RelativeDocumentMoniker": "CRMSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\semir\\Documents\\GitHub\\Exam-work-CRM_system\\Backend\\CRMSystem\\Program.cs",
+              "RelativeToolTip": "CRMSystem\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:14:08.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
